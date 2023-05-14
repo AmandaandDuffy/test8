@@ -1,0 +1,109 @@
+html {
+    background-color:deepskyblue;
+}
+
+body {
+    font-family:fantasy;
+    font-size: 87%;
+}   
+
+.container {
+    max-width:940px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:deepskyblue;
+    padding-left:40px;
+    padding-right: 40px;
+    box-sizing:border-box;
+}
+
+img {
+    width: 400px;
+    height: 200px;
+}
+
+/* Banner Overlay */
+.image-banner {
+    position:relative;
+    
+    
+}
+
+.image-banner img {
+    display:block;
+}
+
+.banner-caption {
+    position: relative;
+    background-color:lightsalmon;
+    bottom:0px;
+    left:0px;
+    width:400px;
+    height:40px;
+    
+}
+
+.banner-caption p {
+    color:deeppink;
+}
+/* End Banner Overlay */
+
+
+
+header {
+    padding-top:20px;
+    padding-bottom:20px;
+    color:deeppink;
+}
+
+.site-nav li {
+    list-style:none;
+    float:left;
+    margin-right: 10px;
+}
+
+.site-nav ul {
+    margin:0;
+    padding:0;
+}
+
+.site-nav {
+    margin-top:20px;
+}
+
+.site-nav a {
+    text-decoration:none;
+    color:darkmagenta;
+    padding: 10px 20px;
+    border: 3px solid darkmagenta;
+    display: block;
+    border-bottom: 2px solid darkmagenta;
+}
+
+.site-nav a:hover {
+    background-color:mediumpurple;
+}
+/* End of Site Navigation*/
+
+.main {
+    width: 70%;
+    float:left;
+}
+
+.support {
+    width:30%;
+    float:left;
+}
+
+.fix {
+    clear:both;
+}
+
+
+
+
+
+
+
+
+

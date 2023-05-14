@@ -1,0 +1,106 @@
+html {
+    background-color:deepskyblue;
+}
+
+body {
+    font-family:fantasy;
+    font-size: 87%;
+}   
+
+.container {
+    max-width:  940px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:whitesmoke;
+    padding-left:40px;
+    padding-right: 40px;
+    box-sizing:border-box;
+}
+
+header {
+    padding-top:20px;
+    padding-bottom:20px;
+    color:deeppink;
+}
+
+header h1 {
+    margin:0;
+    font-weight:normal;
+    font-size: 165%;
+}
+
+header p{
+    margin:0;
+}
+
+.content-area {
+    border-top:3px solid black;
+    border-bottom:3px solid black;
+}
+
+.main {
+    width: 70%;
+    float:left;
+    padding-right: 40px;
+    box-sizing:border-box;
+}
+
+.support {
+    width: 30%;
+    float:left;
+    background-color:salmon;
+    padding-left: 40px;
+    padding-right:40px;
+    box-sizing:border-box;
+    font-size: 85%;
+    padding-top:  20px;
+    padding-bottom: 20px;
+}
+
+.fix {
+    clear:both;
+}
+
+p {
+    color:blueviolet
+}
+
+footer p {
+    color:black;
+    text-align:center;
+    font-size:  81%;
+    color:blue;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+h1 {
+    color:deeppink;
+    text-align: center;
+    font-size:165%;
+    font-weight:normal;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+header p{
+    color:deeppink;
+}
+
+aside {
+    color:deeppink;
+}
+
+header p span {
+    color:deeppink;
+}
+
+.highlight {
+    color:blue;
+    background-color:yellow;
+}
+
+.brand-color {
+    color:red;
+    background-color:chartreuse;
+}

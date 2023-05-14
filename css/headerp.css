@@ -1,0 +1,16 @@
+h1 {
+    color:crimson;
+    text-align: center;
+}
+
+header p {
+    color:fuchsia;
+}
+
+header p span {
+    color:chocolate
+}
+
+.color {
+    background-color: yellow;
+}
